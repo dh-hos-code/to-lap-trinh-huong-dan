@@ -21,38 +21,38 @@
 ###### :eight_spoked_asterisk: CÁCH 1. SỰ DỤNG CÂU LỆNH.
 - Tại [**github.com/dh-hos-code**](https://github.com/dh-hos-code) truy cập vào project muốn clone về.
 
-  ![image](https://github.com/dh-hos-code/msbuild-tools/assets/110148171/32dafa62-5134-419a-b817-cca95f85ded1)
+  ![image](https://i.imgur.com/nrGVV2R.png)
 
-  ![image](https://github.com/dh-hos-code/msbuild-tools/assets/110148171/340b620d-6ae2-4399-8c62-c2ca1bce9707)
+  ![image](https://i.imgur.com/lKld6hW.png)
 
 - Mở `Command Prompt`, đi tới thư mục muốn clone project về.
 - chạy câu lệnh `git clone <repository_url>`
 - `repository_url:` url dẫn đến project được lưu trên git vừa copy ở trên.
   
-  ![image](https://github.com/dh-hos-code/msbuild-tools/assets/110148171/f6323c38-c6d9-4942-bf94-73a4f1f5e635)
+  ![image](https://i.imgur.com/EqPIxQs.png)
 
 - Vào thư mục project vừa clone về, chạy file .exe để mở module
 
-  ![image](https://github.com/dh-hos-code/msbuild-tools/assets/110148171/6336e1b6-cac4-45cf-ac9d-f5d4358bcdfd)
+  ![image](https://i.imgur.com/nujxHJO.png)
 
 - Video hướng dẫn.
   
-https://github.com/dh-hos-code/msbuild-tools/assets/110148171/ce29812a-6cc9-41da-9f81-08ee4cd8033e
+https://www.dropbox.com/scl/fi/3ugevybt6m8h4y6q71brf/clonevideo1.mp4?rlkey=aoa5l3tdjw3hh28suuxguqdov&dl=0
 
 ###### :eight_spoked_asterisk: CÁCH 2. SỰ DỤNG GITHUB DESKTOP.
 - Tải [**GitHub Desktop**](https://desktop.github.com/).
 - Mở GitHub Desktop chọn `File->Clone reponsitory...`
 
-  ![image](https://github.com/dh-hos-code/msbuild-tools/assets/110148171/2c8f9e16-88f0-4f70-ac81-00dc1ae6e317)
+  ![image](https://i.imgur.com/bcvv1I7.png)
 
 - Tại cửa sổ clone a reponsitory chọn tab GitHub.com điền địa chỉ project cần clone về vào thanh tìm kiếm : `dh-hos-code/<tên project>`.
 
-  ![image](https://github.com/dh-hos-code/msbuild-tools/assets/110148171/e47d654c-c2a8-4e47-aebc-883c005cc26c)
+  ![image](https://i.imgur.com/4ECqsOu.png)
 
 - Vào thư mục project vừa clone về, chạy file .exe để mở module như cách 1.
 - Video hướng dẫn.
 
-https://github.com/dh-hos-code/msbuild-tools/assets/110148171/3d302727-8069-4052-90f5-d11d0363a1c0
+https://www.dropbox.com/scl/fi/0ozsolswprwxsrxb3ftdk/clonevideo.mp4?rlkey=rma99wg885vse9p5nt0uasgba&dl=0
 
 
 
