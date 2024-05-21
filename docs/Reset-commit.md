@@ -23,12 +23,12 @@ Bước 1: tra cứu phiên bản
 - Mở `Command Prompt`, di chuyển đến thư mục chứa file .exe của module cần thay đổi phiên bản.
 - Dùng lệch `git log`, ấn `Enter` để hiển thị nhiều hơn, ấn `Q` để trở lại gõ lệnh.
 
-![image](https://github.com/dh-hos-code/msbuild-tools/assets/110148171/7c726611-78bf-478b-abd9-4444e6441010)
+![image](https://i.imgur.com/Uh7iZhn.png)
 
 Bước 2: Thay đổi phiên bản
 - Sử dụng lệnh `git reset --hard <commit_id>` để thay đổi phiên bản.
   
-![image](https://github.com/dh-hos-code/msbuild-tools/assets/110148171/10baa057-c024-4132-bac6-69f9b673a08e)
+![image](https://i.imgur.com/HloApgU.png)
 
 Bước 3: Trở lại phiên bản mới nhất.
 - Sử dụng câu lệnh `git pull` để lấy lại tất cả các phiên bản.
@@ -36,7 +36,7 @@ Bước 3: Trở lại phiên bản mới nhất.
 
 VIDEO HƯỚNG DẪN
 
-https://github.com/dh-hos-code/msbuild-tools/assets/110148171/e88f783e-a567-4ff2-a269-1c198affee7a
+https://www.dropbox.com/scl/fi/37wz7lfk5thhe7l4hhkw9/resetvideo.mp4?rlkey=awd2doohie1aqmcd1vs41rvt4&dl=0
 
 
 
