@@ -25,7 +25,7 @@
 
 - Chạy file .exe vừa tải về
   
-  ![image](https://github.com/dh-hos-code/msbuild-tools/assets/110148171/71593e33-1387-4f82-a3a7-b56384c588b5)
+  [![image](https://github.com/dh-hos-code/msbuild-tools/assets/110148171/71593e33-1387-4f82-a3a7-b56384c588b5)](https://imgur.com/a/Pts1rv2)
 
   ![image](https://github.com/dh-hos-code/msbuild-tools/assets/110148171/564fa593-c51e-4933-aeef-cb6a74ef4ff3)
 
