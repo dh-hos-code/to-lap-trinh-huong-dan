@@ -44,6 +44,11 @@
 - Lấy các module từ Git về : [**Hướng dẫn**](https://github.com/dh-hos-code/to-lap-trinh-huong-dan/blob/main/docs/Clone-project.md)
 - Thay đổi phiên bản của module : [**Hướng dẫn**](https://github.com/dh-hos-code/to-lap-trinh-huong-dan/blob/main/docs/Reset-commit.md)
 
+###### :eight_spoked_asterisk: HƯỚNG DẪN LẤY PHIÊN BẢN MỚI NHẤT.
+- Tạo lệnh ghép để sử dụng `git config --global alias.pullforce "!git stash && git stash drop && git clean -d -f . && git pull"` (chỉ chạy 1 lần)
+- Lấy bản mới nhất chỉ cần chạy lệnh `git pullforce`
+- Lưu ý, lệnh `pullforce` mình có thể thay thế bằng chữ khác để tiện sử dụng
+
 ###### :eight_spoked_asterisk: ĐÓNG GÓP & XÂY DỰNG.
 - Những góp ý để hoàn thiện hướng dẫn sử dụng git để test các module sẽ ghi nhận dạng issue theo project [**issues to-lap-trinh-huong-dan**](https://github.com/dh-hos-code/to-lap-trinh-huong-dan/issues).
 
